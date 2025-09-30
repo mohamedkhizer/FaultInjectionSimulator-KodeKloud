@@ -8,6 +8,8 @@ Note: Running this lab will INCUR COSTS. Please review your resources and budget
 
 ## Table of Contents
 
+##Khizer
+
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](#setup-instructions)
   - [1. Create IAM Role](#1-create-iam-role)
